@@ -1,0 +1,88 @@
+[
+  {
+    "name": "FitBuddy",
+    "slug": "fitbuddy",
+    "category": "Generative AI",
+    "icon": "spark",
+    "color": "#a78bfa",
+    "description": "AI fitness plan generator built on Google's Gemini models.",
+    "tech": ["Python", "Gemini"],
+    "url": "https://github.com/rahulgupta-glitch/FitBuddy-AI-Fitness-Plan-Generator-using-Gemini-Models"
+  },
+  {
+    "name": "NetSage AI Diagnostics",
+    "slug": "netsage-ai-diagnostics",
+    "category": "AI Diagnostics",
+    "icon": "network",
+    "color": "#22d3ee",
+    "description": "AI-driven diagnostics project built in Python.",
+    "tech": ["Python", "AI"],
+    "url": "https://github.com/rahulgupta-glitch/NetSage-AI-Diagnostics"
+  },
+  {
+    "name": "House Price Prediction",
+    "slug": "house-price-prediction",
+    "category": "Machine Learning",
+    "program": "Oasis Infobyte",
+    "icon": "trend",
+    "color": "#34d399",
+    "description": "Linear Regression model that estimates real estate values from property features.",
+    "tech": ["Python", "Linear Regression"],
+    "url": "https://github.com/rahulgupta-glitch/Predicting-House-Prices-with-Linear-Regression"
+  },
+  {
+    "name": "Fraud Detection",
+    "slug": "fraud-detection",
+    "category": "Machine Learning",
+    "program": "Oasis Infobyte",
+    "icon": "shield",
+    "color": "#f87171",
+    "description": "Pattern-recognition system that classifies and flags fraudulent transactions.",
+    "tech": ["Python", "Classification"],
+    "url": "https://github.com/rahulgupta-glitch/-Fraud-Detection"
+  },
+  {
+    "name": "Retail Sales EDA",
+    "slug": "retail-sales-eda",
+    "category": "Data Analysis",
+    "program": "Oasis Infobyte",
+    "icon": "line",
+    "color": "#fbbf24",
+    "description": "Exploratory analysis that uncovers seasonal trends and consumer behavior patterns.",
+    "tech": ["Python", "Pandas", "EDA"],
+    "url": "https://github.com/rahulgupta-glitch/EDA-on-Retail-Sales-Data"
+  },
+  {
+    "name": "Customer Segmentation",
+    "slug": "customer-segmentation",
+    "category": "Machine Learning",
+    "program": "Synent Technology",
+    "icon": "clusters",
+    "color": "#f472b6",
+    "description": "Groups mall customers into segments using the Mall Customers dataset.",
+    "tech": ["Python", "Jupyter"],
+    "url": "https://github.com/rahulgupta-glitch/synent-task-6-Customer-Segmentation-Rahul-Gupta"
+  },
+  {
+    "name": "Sales Data Analysis",
+    "slug": "sales-data-analysis",
+    "category": "Data Analysis",
+    "program": "Synent Technology",
+    "icon": "bars",
+    "color": "#fb923c",
+    "description": "Analyzes the Superstore sales dataset to find what drives revenue.",
+    "tech": ["Python", "Jupyter"],
+    "url": "https://github.com/rahulgupta-glitch/synent-task-5-Sales-Data-Analysis-Rahul-Gupta"
+  },
+  {
+    "name": "Data Visualization",
+    "slug": "data-visualization",
+    "category": "Data Visualization",
+    "program": "Synent Technology",
+    "icon": "pie",
+    "color": "#38bdf8",
+    "description": "Visual exploration of the Iris dataset with clear, readable charts.",
+    "tech": ["Python", "Jupyter"],
+    "url": "https://github.com/rahulgupta-glitch/synent-task-2-Data-Visualization-Rahul-Gupta"
+  }
+]

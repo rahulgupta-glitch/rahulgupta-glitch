@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="212" viewBox="0 0 440 212" role="img" aria-label="FitBuddy project card"><title>FitBuddy project card</title><style>text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}.card{animation:up .6s ease-out backwards}@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18203a"/><stop offset="1" stop-color="#0d1117"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient><clipPath id="k"><rect x="4" y="4" width="424" height="196" rx="16"/></clipPath></defs>
+<g class="card" style="animation-delay:0ms">
+<rect x="10" y="12" width="424" height="196" rx="16" fill="#05080f"/>
+<rect x="4" y="4" width="424" height="196" rx="16" fill="url(#g)" stroke="#a78bfa" stroke-opacity=".45"/>
+<g clip-path="url(#k)"><circle cx="410" cy="10" r="95" fill="#a78bfa" opacity=".10"/><rect x="4" y="4" width="424" height="4" fill="url(#a)"/></g>
+<rect x="28" y="28" width="56" height="56" rx="14" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".5"/>
+<g transform="translate(40,40)"><path d="M16 3 L19.5 12.5 L29 16 L19.5 19.5 L16 29 L12.5 19.5 L3 16 L12.5 12.5 Z" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="#a78bfa" fill-opacity=".25"/></g>
+<text x="100" y="44" font-size="11" font-weight="600" letter-spacing="1.6" fill="#a78bfa">GENERATIVE AI</text>
+<text x="100" y="70" font-size="20" font-weight="700" fill="#ffffff">FitBuddy</text>
+<text x="28" y="108" font-size="13" fill="#c9d1d9">AI fitness plan generator built on Google&#x27;s Gemini</text>
+<text x="28" y="126" font-size="13" fill="#c9d1d9">models.</text>
+<rect x="28.0" y="160" width="62.8" height="24" rx="12" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".45"/>
+<text x="59.4" y="176" text-anchor="middle" font-size="11" font-weight="600" fill="#d0adff">Python</text>
+<rect x="98.8" y="160" width="62.8" height="24" rx="12" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".45"/>
+<text x="130.2" y="176" text-anchor="middle" font-size="11" font-weight="600" fill="#d0adff">Gemini</text>
+<text x="412" y="176" text-anchor="end" font-size="10" font-weight="700" letter-spacing="1.2" fill="#a78bfa">OPEN REPO  &#8594;</text>
+</g></svg>
