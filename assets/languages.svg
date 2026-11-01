@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Languages used across my public repositories"><title>Languages used across my public repositories</title><style>text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}</style><rect x="1" y="1" width="898" height="298" rx="14" fill="#0d1117" stroke="#30363d"/>
 <text x="24" y="38" font-size="17" font-weight="700" fill="#e6edf3">Languages Across My Repositories<tspan font-size="12" font-weight="400" fill="#8b949e" dx="10">share of code by size</tspan></text>
-<path d="M185.00,68.00 A92,92 0 1 1 164.77,249.75 L173.79,209.75 A51,51 0 1 0 185.00,109.00 Z" fill="#3572A5" stroke="#0d1117" stroke-width="2"/>
-<path d="M164.77,249.75 A92,92 0 0 1 146.92,76.25 L163.89,113.57 A51,51 0 0 0 173.79,209.75 Z" fill="#b07219" stroke="#0d1117" stroke-width="2"/>
-<path d="M146.92,76.25 A92,92 0 0 1 185.00,68.00 L185.00,109.00 A51,51 0 0 0 163.89,113.57 Z" fill="#e34c26" stroke="#0d1117" stroke-width="2"/>
+<path d="M185.00,68.00 A92,92 0 1 1 164.81,249.76 L173.81,209.76 A51,51 0 1 0 185.00,109.00 Z" fill="#3572A5" stroke="#0d1117" stroke-width="2"/>
+<path d="M164.81,249.76 A92,92 0 0 1 146.93,76.25 L163.89,113.57 A51,51 0 0 0 173.81,209.76 Z" fill="#b07219" stroke="#0d1117" stroke-width="2"/>
+<path d="M146.93,76.25 A92,92 0 0 1 185.00,68.00 L185.00,109.00 A51,51 0 0 0 163.89,113.57 Z" fill="#e34c26" stroke="#0d1117" stroke-width="2"/>
 <text x="185" y="164" text-anchor="middle" font-size="30" font-weight="700" fill="#e6edf3">3</text>
 <text x="185" y="184" text-anchor="middle" font-size="11" fill="#8b949e">languages</text>
 <circle cx="440" cy="98" r="6" fill="#3572A5"/>
